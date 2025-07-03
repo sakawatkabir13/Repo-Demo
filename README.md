@@ -1,4 +1,4 @@
 # Repo-Demo
 This is a demo repository.
 <br>
-Author - Sakawat Kabir
+Author - Sakawat Kabir Tanveer
